@@ -9,6 +9,7 @@ docker image ls
 docker pull nginx
 
 docker pull nginx:1.11.9
+
 docker pull nginx:1.11
 
 docker pull nginx:1.11.9-alpine
